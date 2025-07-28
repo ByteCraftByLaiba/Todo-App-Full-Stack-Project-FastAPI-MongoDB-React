@@ -1,6 +1,6 @@
 # 📝 Todo App – Full Stack Project (FastAPI + MongoDB + HTML/JS)
 
-![todo-app-diagram](architecture-diagram.png) 
+![todo-app-diagram](screenshots/frontend-UI.png) 
 
 ## 📌 Overview
 
