@@ -163,7 +163,7 @@ python -m http.server
 
 ## 📸 Preview
 
-![screenshot](architecture-diagram.png) 
+![screenshot](screenshots/architecture-diagram.png) 
 
 ---
 
