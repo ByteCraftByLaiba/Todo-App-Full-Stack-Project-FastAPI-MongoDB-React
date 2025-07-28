@@ -1,6 +1,6 @@
 # 📝 Todo App – Full Stack Project (FastAPI + MongoDB + HTML/JS)
 
-![todo-app-diagram](https://architecture-diagram.png) 
+![todo-app-diagram](architecture-diagram.png) 
 
 ## 📌 Overview
 
@@ -163,7 +163,7 @@ python -m http.server
 
 ## 📸 Preview
 
-![screenshot](https://i.imgur.com/your-preview-url.png) <!-- Replace with actual screenshots -->
+![screenshot](architecture-diagram.png) 
 
 ---
 
